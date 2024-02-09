@@ -1,5 +1,16 @@
 # PowerBI Data Analysis Project
 
+## Introduction
+
+Welcome to the PowerBI Data Analysis Project! This project aims to provide comprehensive insights into call center operations through the use of interactive dashboards created using Microsoft Power BI. By leveraging data visualization techniques, we aim to enhance understanding, decision-making, and optimization of call center performance.
+
+In this project, we focus on creating intuitive dashboards to analyze key performance indicators (KPIs) and visualize trends related to call volumes, durations, geographic distribution, reasons for calls, communication channels, sentiments, and performance across different call centers or departments.
+
+Through these visualizations, stakeholders will gain valuable insights into call center operations, enabling them to make informed decisions, optimize resource allocation, improve customer service, and identify areas for enhancement.
+
+Please refer to the following sections for detailed information about the project's objectives, requirements, and implementation.
+
+
 ## Dashboard 1: Home
 
 ### Key Performance Indicators (KPIs) Requirements
